@@ -1,55 +1,92 @@
 # API Documentation Hub
 
-## Overview
+## Documentation as a System
 
-This repository demonstrates a Docs-as-Code approach for API documentation, simulating real-world SaaS and headless CMS documentation systems.
+This repository demonstrates a **Docs-as-Code API documentation system**, designed to simulate how documentation is structured in modern SaaS and API-first platforms.
 
-It showcases how documentation can be structured as a system rather than isolated files.
+Instead of treating documentation as isolated files, this project models it as a structured and maintainable system with clear architecture, layering, and evolution principles.
+
+---
+
+## 📌 What This Project Demonstrates
+
+- API documentation structuring (basic → enterprise level)
+- Documentation architecture design
+- Information hierarchy and navigation design
+- Docs-as-Code principles
+- Scalable documentation system thinking
 
 ---
 
 ## 📚 Documentation
 
 ### 🔹 Basic REST API
-Simple CRUD-based API documentation demonstrating core REST concepts.
+
+A simple REST API documentation example demonstrating core concepts:
 
 - Endpoints
 - Authentication
 - Request / response structure
 - Error handling
 
-📄 File: [basic-api.md](./basic-api.md)
+👉 [View documentation](./basic-api.md)
 
 ---
 
 ### 🔸 Enterprise Headless CMS API
-Advanced API documentation inspired by real-world CMS and composable architectures.
+
+An advanced API documentation example inspired by real-world SaaS and headless CMS platforms.
 
 - Content modeling
-- Versioning & publishing workflow
-- RBAC (role-based access control)
-- Standardized response structure
+- Versioning and publishing workflows
+- Role-based access control (RBAC)
+- Standardized API response structure
+- RESTful architecture patterns
 
-📄 File: [enterprise-api.md](./enterprise-api.md)
+👉 [View documentation](./enterprise-api.md)
 
 ---
 
 ## 🧠 System Architecture
 
-This repository follows a structured documentation system approach.
+This project is built as a layered documentation system:
 
-📄 Architecture overview: [ARCHITECTURE.md](./ARCHITECTURE.md)
+- Entry Layer → `README.md`
+- System Design Layer → `ARCHITECTURE.md`
+- Content Layer → API documentation files
+
+👉 [View architecture](./ARCHITECTURE.md)
 
 ---
 
-## 🧭 How to navigate
+## 🚀 Design Principles
 
-- Start with Basic API → understand fundamentals
-- Then Enterprise API → see advanced patterns
-- Review Architecture → understand system design
+This documentation system is based on the following principles:
+
+- Clarity over complexity
+- Separation of concerns (content / structure / navigation)
+- Scalability for future API expansion
+- Consistent documentation patterns
+- Maintainability in long-term usage
 
 ---
 
 ## 🎯 Purpose
 
-This project demonstrates technical writing and documentation architecture skills for enterprise and API-first systems.
+This project is part of a technical writing portfolio demonstrating:
+
+- Senior-level technical writing capabilities
+- Documentation architecture thinking
+- API documentation structuring skills
+- Ability to model real-world documentation systems
+
+---
+
+## 🧭 How to Use This Repository
+
+Start here:
+
+1. Read this README to understand the structure
+2. Explore the architecture design
+3. Review basic API documentation
+4. Move to enterprise-level documentation for advanced patterns
