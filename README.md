@@ -1,40 +1,55 @@
-# API Documentation Samples
+# API Documentation Hub
 
 ## Overview
 
-This repository contains two API documentation examples demonstrating different levels of REST API complexity, from basic CRUD operations to enterprise-style architecture used in scalable backend and composable systems.
+This repository is a structured API documentation hub demonstrating both basic and enterprise-level REST API design.
 
-The goal is to demonstrate technical writing skills, API structuring ability, and understanding of API design principles used in enterprise systems.
+It is designed to simulate real-world technical documentation used in SaaS platforms and headless CMS systems.
+
+The goal of this project is to demonstrate:
+- API documentation structure
+- Technical writing clarity
+- REST API design understanding
+- Enterprise-level documentation patterns
 
 ---
 
-## Contents
+## 📚 Documentation
 
-### 1. Basic REST API Sample
-Simple CRUD API demonstrating core REST concepts:
+### 🔹 Basic REST API
+Simple CRUD-based REST API demonstrating core concepts.
+
 - Endpoints
 - Authentication
-- Request/response structure
+- Request / Response structure
 - Error handling
 
-➡ File: `basic-api.md`
+👉 File: `basic-api.md`
 
 ---
 
-### 2. Enterprise Headless CMS API Sample
-Advanced API documentation inspired by enterprise systems and composable architectures.
+### 🔸 Enterprise Headless CMS API
+Advanced API documentation inspired by real-world CMS and composable systems.
 
 Includes:
-- Versioned API design
-- Authentication via Bearer token
-- Pagination and metadata responses
-- Standardized error handling
-- Consistent response structure
+- Content modeling
+- Versioning & publishing workflow
+- Role-based access control (RBAC)
+- Standardized response formats
+- RESTful architecture patterns
 
-➡ File: `enterprise-api.md`
+👉 File: `enterprise-api.md`
 
 ---
 
-## Notes
+## 🧭 How to use this repository
 
-These examples are created for portfolio purposes and demonstrate API documentation structure and technical writing skills.
+Each file represents a different complexity level of API documentation.
+
+Start with the basic example, then review the enterprise version to see how real-world systems are structured.
+
+---
+
+## 🎯 Purpose
+
+This repository is part of a technical writing portfolio demonstrating API documentation skills for enterprise and SaaS environments.
