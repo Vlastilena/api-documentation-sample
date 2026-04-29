@@ -2,54 +2,54 @@
 
 ## Overview
 
-This repository is a structured API documentation hub demonstrating both basic and enterprise-level REST API design.
+This repository demonstrates a Docs-as-Code approach for API documentation, simulating real-world SaaS and headless CMS documentation systems.
 
-It is designed to simulate real-world technical documentation used in SaaS platforms and headless CMS systems.
-
-The goal of this project is to demonstrate:
-- API documentation structure
-- Technical writing clarity
-- REST API design understanding
-- Enterprise-level documentation patterns
+It showcases how documentation can be structured as a system rather than isolated files.
 
 ---
 
 ## 📚 Documentation
 
 ### 🔹 Basic REST API
-Simple CRUD-based REST API demonstrating core concepts.
+Simple CRUD-based API documentation demonstrating core REST concepts.
 
 - Endpoints
 - Authentication
-- Request / Response structure
+- Request / response structure
 - Error handling
 
-👉 File: `basic-api.md`
+📄 File: [basic-api.md](./basic-api.md)
 
 ---
 
 ### 🔸 Enterprise Headless CMS API
-Advanced API documentation inspired by real-world CMS and composable systems.
+Advanced API documentation inspired by real-world CMS and composable architectures.
 
-Includes:
 - Content modeling
 - Versioning & publishing workflow
-- Role-based access control (RBAC)
-- Standardized response formats
-- RESTful architecture patterns
+- RBAC (role-based access control)
+- Standardized response structure
 
-👉 File: `enterprise-api.md`
+📄 File: [enterprise-api.md](./enterprise-api.md)
 
 ---
 
-## 🧭 How to use this repository
+## 🧠 System Architecture
 
-Each file represents a different complexity level of API documentation.
+This repository follows a structured documentation system approach.
 
-Start with the basic example, then review the enterprise version to see how real-world systems are structured.
+📄 Architecture overview: [ARCHITECTURE.md](./ARCHITECTURE.md)
+
+---
+
+## 🧭 How to navigate
+
+- Start with Basic API → understand fundamentals
+- Then Enterprise API → see advanced patterns
+- Review Architecture → understand system design
 
 ---
 
 ## 🎯 Purpose
 
-This repository is part of a technical writing portfolio demonstrating API documentation skills for enterprise and SaaS environments.
+This project demonstrates technical writing and documentation architecture skills for enterprise and API-first systems.
